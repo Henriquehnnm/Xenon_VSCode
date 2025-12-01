@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Henriquehnnm/Xenon/main/Logo.png" alt="Xenon Logo" width="200">
+  <img src="/Logo.png" alt="Xenon Logo" width="200">
   <h1>
     Xenon for Visual Studio Code
   </h1>
