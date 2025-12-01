@@ -24,7 +24,7 @@
 
 ## Preview
 
-![Xenon Preview](httpshttps://raw.githubusercontent.com/Henriquehnnm/Xenon_VSCode/main/assets/preview.png)
+<img width="1506" height="800" alt="image" src="https://github.com/user-attachments/assets/0be6305b-36d9-4308-8a60-317b76f36d47" />
 
 ## Installation
 
