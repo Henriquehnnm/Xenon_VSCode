@@ -2,13 +2,18 @@
   "name": "xenon",
   "displayName": "Xenon",
   "description": "Xenon theme for Visual Studio Code",
-  "version": "1.0.1",
+  "icon": "Logo.png",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Henriquehnnm/Xenon_VSCode.git"
+  },
   "contributes": {
     "themes": [
       {
