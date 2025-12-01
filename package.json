@@ -1,7 +1,8 @@
 {
   "name": "xenon",
   "displayName": "Xenon",
-  "description": "Xenon theme for Visual Studio Code",
+  "description": "A collection of dark, modern, and vibrant themes for Visual Studio Code.",
+  "publisher": "Henriquehnnm",
   "icon": "Logo.png",
   "version": "1.0.3",
   "engines": {
