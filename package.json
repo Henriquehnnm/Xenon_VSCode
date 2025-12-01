@@ -1,0 +1,41 @@
+{
+  "name": "xenon",
+  "displayName": "Xenon",
+  "description": "Xenon theme for Visual Studio Code",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xenon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xenon.json"
+      },
+      {
+        "label": "Xenon - One Dark Remap",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xenon-One-Dark-Remap-theme.json"
+      },
+      {
+        "label": "Xenon - Monokai Remap",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xenon-Monokai-Remap-theme.json"
+      },
+      {
+        "label": "Xenon - GitHub Dark Remap",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xenon-GitHub-Dark-Remap-theme.json"
+      },
+      {
+        "label": "Xenon - Solarized Remap",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xenon-Solarized-Remap-theme.json"
+      }
+    ]
+  }
+}
