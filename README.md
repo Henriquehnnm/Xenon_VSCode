@@ -24,7 +24,7 @@
 
 ## Preview
 
-<img alt="image" src="https://github.com/user-attachments/assets/0be6305b-36d9-4308-8a60-317b76f36d47" />
+<img alt="image" src="https://github.com/user-attachments/assets/49023d74-d626-4cb7-8587-ab67fc9c523c" />
 
 ## Installation
 
